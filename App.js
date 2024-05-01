@@ -1,5 +1,5 @@
-import View_Component from "./course/5-View Component/View_Component";
+import Text_Component from "./course/6-Text Component/Text_component";
 
 export default function App() {
-  return <View_Component />;
+  return <Text_Component />;
 }
