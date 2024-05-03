@@ -6,7 +6,6 @@ export default function View_Component() {
     <View
       style={{
         flexDirection: "row",
-
         padding: 20,
         marginTop: 30,
         backgroundColor: "gray",
