@@ -1,6 +1,5 @@
-import Text_Component from "./course/6-Text Component/Text_component";
-import StylesInReactNative from "./course/7-Styling/StylesInReactNative";
+import Images from "./course/8-Images/Images";
 
 export default function App() {
-  return <StylesInReactNative />;
+  return <Images />;
 }
